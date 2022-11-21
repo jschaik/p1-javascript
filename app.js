@@ -26,3 +26,5 @@ function minus() {
   let answer = input1.value * input2.value;
   title.innerText = answer;
 }
+
+//merge test
